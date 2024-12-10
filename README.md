@@ -35,5 +35,5 @@
 ![Edrico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaikoo00)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaikoo00&theme=dark)
 
-![Snake Animation](https://github.com/Kaikoo00/Kaikoo00/blob/output/snake.svg)
+![Snake Animation](https://github.com/Kaikoo00/Kaikoo00/blob/output/dist/github-snake-dark.svg)
 
