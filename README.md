@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dishcraft](https://github.com/Kaikoo00/DishcraftJava)
 - 🌱 I’m currently learning **Java Android App Development**
-
+- 📫 How to reach me **edrico.pramana@binus.ac.id**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edrico-putra-pramana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edrico-putra-pramana" height="30" width="40" /></a>
