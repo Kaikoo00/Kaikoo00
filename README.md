@@ -33,6 +33,7 @@
 </p>
 
 ![Edrico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaikoo00)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kaikoo00)
 
 ![Snake Animation](https://github.com/Kaikoo00/Kaikoo00/blob/output/dist/github-snake-dark.svg)
